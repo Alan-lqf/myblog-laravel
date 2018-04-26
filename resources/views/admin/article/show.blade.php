@@ -70,7 +70,7 @@
             }
         </script>
 
-        <div class="conmments" style="margin-top: 100px;">
+        <div class="comments" style="margin-top: 100px;">
             @foreach ($article->hasManyComments as $comment)
 
                 <div class="one" style="border-top: solid 20px #efefef; padding: 5px 20px;">
